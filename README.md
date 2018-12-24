@@ -20,10 +20,12 @@ npm run build
 npm run test
 ```
 
-### Lints and fixes files
+### Lints and fixes file
 ```
 npm run lint
 ```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
